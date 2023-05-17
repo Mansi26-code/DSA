@@ -13,7 +13,7 @@ int getMax (int num[],int n)
         }
         //hello my name is Mansi
     }
-return max;
+return min;
 }
 int main()
 {
