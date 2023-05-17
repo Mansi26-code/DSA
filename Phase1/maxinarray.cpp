@@ -22,7 +22,7 @@ cin>>size;
 int num[100];
 for(int i=0;i<size;i++)
 {
-    cin>>num[i];
+    cin>>n[i];
 }
 cout<<"THE MAX VALUE IS"<<getMax(num,size)<<endl;
 }
