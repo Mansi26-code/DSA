@@ -11,6 +11,7 @@ int getMax (int num[],int n)
         {
             max=num[i];
         }
+        //hello my name is Mansi
     }
 return max;
 }
